@@ -1,0 +1,404 @@
+[
+  {
+    "text": "The football team won the championship after an intense match. The players celebrated their victory with fans at the stadium. The coach praised the team's dedication and hard work throughout the season.",
+    "label": "sports"
+  },
+  {
+    "text": "The parliament passed a new bill regarding healthcare reform. Politicians debated the legislation for hours before reaching a consensus. The prime minister addressed the nation about the new policy changes.",
+    "label": "politics"
+  },
+  {
+    "text": "The basketball player scored 40 points in the final game. Fans were thrilled with the amazing performance. The team secured their playoff position with this crucial win.",
+    "label": "sports"
+  },
+  {
+    "text": "The election results showed a close race between the two candidates. Voters turned out in record numbers to cast their ballots. The winning candidate promised to focus on economic reforms.",
+    "label": "politics"
+  },
+  {
+    "text": "The tennis champion won her fifth Grand Slam title. The match lasted over three hours with incredible rallies. Sports analysts praised her exceptional serve and powerful groundstrokes.",
+    "label": "sports"
+  },
+  {
+    "text": "Congress debated the infrastructure spending bill for the third consecutive day. Representatives from both parties proposed amendments to the legislation. The speaker called for a vote on the controversial measure.",
+    "label": "politics"
+  },
+  {
+    "text": "The soccer team's striker broke the league's all-time scoring record. Teammates congratulated him after the historic goal. The manager said this achievement motivates the entire squad.",
+    "label": "sports"
+  },
+  {
+    "text": "The governor announced new policies to address climate change. Environmental groups praised the initiative while business leaders expressed concerns. State legislators will vote on the proposal next month.",
+    "label": "politics"
+  },
+  {
+    "text": "The Olympic swimmer won three gold medals at the international competition. Her training regimen and dedication paid off with record-breaking performances. Coaches celebrated the historic achievement.",
+    "label": "sports"
+  },
+  {
+    "text": "The senate committee investigated allegations of corruption. Witnesses testified about the scandal during lengthy hearings. The attorney general promised a thorough investigation into the matter.",
+    "label": "politics"
+  },
+  {
+    "text": "The baseball team's pitcher threw a perfect game against their rivals. Fans witnessed an incredible display of athletic excellence. The historic performance will be remembered for years to come.",
+    "label": "sports"
+  },
+  {
+    "text": "The president vetoed the tax reform legislation passed by congress. Opposition leaders criticized the decision and vowed to override the veto. Political analysts debate the implications for upcoming elections.",
+    "label": "politics"
+  },
+  {
+    "text": "The hockey team won the Stanley Cup after a thrilling overtime victory. Players lifted the trophy as fans cheered wildly. The championship parade attracted thousands of supporters.",
+    "label": "sports"
+  },
+  {
+    "text": "Diplomats from multiple nations gathered for peace talks. The foreign minister emphasized the importance of international cooperation. Negotiators hope to reach an agreement by the end of the month.",
+    "label": "politics"
+  },
+  {
+    "text": "The marathon runner set a new world record at the prestigious race. Spectators cheered as she crossed the finish line. Athletic federations recognized her extraordinary accomplishment.",
+    "label": "sports"
+  },
+  {
+    "text": "The supreme court ruled on a landmark case regarding constitutional rights. Legal experts analyzed the decision's broader implications. The ruling is expected to influence future legislation.",
+    "label": "politics"
+  },
+  {
+    "text": "The cricket team dominated the test match series against their opponents. The captain's leadership inspired excellent team performance. Victory celebrations continued well into the evening.",
+    "label": "sports"
+  },
+  {
+    "text": "The mayor proposed a comprehensive plan to improve public transportation. City council members debated the budget allocation for the project. Residents attended town hall meetings to voice their opinions.",
+    "label": "politics"
+  },
+  {
+    "text": "The golf tournament featured the world's top-ranked players. The final round delivered exciting competition and dramatic finishes. The champion received the prestigious trophy and prize money.",
+    "label": "sports"
+  },
+  {
+    "text": "The national assembly voted on amendments to the constitution. Political parties negotiated compromises on controversial provisions. Constitutional experts provided testimony during committee hearings.",
+    "label": "politics"
+  },
+{
+  "text": "The volleyball team secured a dramatic five-set victory in the regional finals. The captain delivered a powerful spike to seal the match. Fans celebrated the team's outstanding teamwork.",
+  "label": "sports"
+},
+{
+  "text": "The Formula 1 driver claimed pole position after a record-breaking qualifying lap. The race promises intense competition among top contenders.",
+  "label": "sports"
+},
+{
+  "text": "The boxing champion defended his title with a knockout in the seventh round. Analysts praised his defensive strategy and powerful punches.",
+  "label": "sports"
+},
+{
+  "text": "The rugby squad advanced to the semifinals after defeating their rivals. Coaches credited the win to disciplined defense and strong physical conditioning.",
+  "label": "sports"
+},
+{
+  "text": "The badminton player triumphed in straight sets during the international tournament. Spectators admired her quick reflexes and precise shots.",
+  "label": "sports"
+},
+{
+  "text": "The cycling team dominated the mountain stage of the tour. The lead rider maintained a strong pace despite challenging terrain.",
+  "label": "sports"
+},
+{
+  "text": "The wrestling championship featured intense bouts between top-ranked athletes. The crowd applauded the impressive technical skills on display.",
+  "label": "sports"
+},
+{
+  "text": "The national team prepared rigorously for the upcoming World Cup qualifiers. Training sessions focused on improving tactical coordination.",
+  "label": "sports"
+},
+{
+  "text": "The gymnast delivered a flawless routine on the balance beam. Judges awarded her the highest score of the competition.",
+  "label": "sports"
+},
+{
+  "text": "The athletics meet concluded with a thrilling 100-meter sprint final. The sprinter broke the stadium record with an explosive start.",
+  "label": "sports"
+},
+{
+  "text": "Lawmakers introduced a new proposal to reform tax policies. The bill aims to reduce corporate rates while increasing transparency.",
+  "label": "politics"
+},
+{
+  "text": "The foreign affairs committee held discussions on diplomatic relations. Officials emphasized the importance of regional stability.",
+  "label": "politics"
+},
+{
+  "text": "The opposition party criticized the government's economic strategy. Debates continued late into the evening session.",
+  "label": "politics"
+},
+{
+  "text": "The minister announced new regulations to improve public safety. Critics questioned the financial feasibility of the plan.",
+  "label": "politics"
+},
+{
+  "text": "The legislative assembly reviewed amendments to environmental protection laws. Experts testified during the public hearing.",
+  "label": "politics"
+},
+{
+  "text": "The cabinet approved funding for infrastructure development projects. Analysts predicted significant economic impact.",
+  "label": "politics"
+},
+{
+  "text": "The campaign rally attracted thousands of supporters. The candidate promised reforms in education and healthcare.",
+  "label": "politics"
+},
+{
+  "text": "The senate passed a resolution addressing national security concerns. Law enforcement agencies welcomed the decision.",
+  "label": "politics"
+},
+{
+  "text": "The judiciary reviewed constitutional challenges to the new legislation. Legal scholars debated the broader implications.",
+  "label": "politics"
+},
+{
+  "text": "The mayoral candidate presented a detailed policy agenda. Voters expressed mixed reactions during the town hall meeting.",
+  "label": "politics"
+},
+{
+  "text": "The national basketball league announced the schedule for the upcoming season. Teams are preparing intensively for the opening matches. Coaches are optimistic about their squads' performance.",
+  "label": "sports"
+},
+{
+  "text": "The football club signed a promising young striker during the transfer window. Supporters believe he will strengthen the attacking lineup significantly.",
+  "label": "sports"
+},
+{
+  "text": "The athletics championship featured record-breaking performances in multiple track events. Spectators applauded the athletes' remarkable speed and endurance.",
+  "label": "sports"
+},
+{
+  "text": "The cricket board confirmed the squad for the international tour. Selectors emphasized the importance of experienced players in crucial matches.",
+  "label": "sports"
+},
+{
+  "text": "The swimming competition concluded with several national records being broken. Coaches praised the swimmers' dedication and disciplined training routines.",
+  "label": "sports"
+},
+{
+  "text": "The baseball team clinched the division title after a decisive victory. Players credited their success to consistent teamwork throughout the season.",
+  "label": "sports"
+},
+{
+  "text": "The tennis tournament attracted top-ranked players from around the world. Fans enjoyed intense rallies and dramatic tie-breaks.",
+  "label": "sports"
+},
+{
+  "text": "The cycling race covered challenging mountainous terrain. Riders demonstrated exceptional stamina and strategic pacing during the final stage.",
+  "label": "sports"
+},
+{
+  "text": "The hockey league playoffs delivered thrilling overtime victories. Goalkeepers played a crucial role in securing narrow wins.",
+  "label": "sports"
+},
+{
+  "text": "The marathon event saw thousands of participants compete across the city. Medical teams ensured the safety of runners throughout the race.",
+  "label": "sports"
+},
+{
+  "text": "The rugby captain motivated his teammates before the championship final. Analysts highlighted the team's strong defensive structure.",
+  "label": "sports"
+},
+{
+  "text": "The volleyball tournament concluded with a dramatic final set. Spectators witnessed outstanding coordination and powerful serves.",
+  "label": "sports"
+},
+{
+  "text": "The golf championship featured difficult weather conditions. The eventual winner maintained composure under intense pressure.",
+  "label": "sports"
+},
+{
+  "text": "The boxing match drew international attention as two champions faced off. Commentators praised the tactical approach of both fighters.",
+  "label": "sports"
+},
+{
+  "text": "The Olympic committee announced preparations for the upcoming games. Athletes are undergoing rigorous training camps.",
+  "label": "sports"
+},
+{
+  "text": "The table tennis finals showcased quick reflexes and strategic placements. The crowd applauded the intense exchanges.",
+  "label": "sports"
+},
+{
+  "text": "The wrestling federation organized a national championship event. Competitors demonstrated impressive strength and technical skills.",
+  "label": "sports"
+},
+{
+  "text": "The badminton championship final ended in straight sets. Coaches praised the player's agility and footwork.",
+  "label": "sports"
+},
+{
+  "text": "The soccer academy produced several talented youth players this season. Scouts observed their development closely.",
+  "label": "sports"
+},
+{
+  "text": "The motorsport rally featured high-speed competition across challenging terrain. Drivers relied heavily on precise navigation and teamwork.",
+  "label": "sports"
+},
+{
+  "text": "The senate approved the annual budget after extensive negotiations. Lawmakers debated funding priorities for several hours.",
+  "label": "politics"
+},
+{
+  "text": "The president addressed the nation regarding economic reforms. Analysts evaluated the potential impact of the proposed measures.",
+  "label": "politics"
+},
+{
+  "text": "The opposition leader criticized the government's foreign policy decisions. Parliamentary debates intensified over diplomatic strategies.",
+  "label": "politics"
+},
+{
+  "text": "The cabinet meeting focused on national security and defense spending. Officials discussed long-term strategic plans.",
+  "label": "politics"
+},
+{
+  "text": "The election commission announced new voting guidelines ahead of the general election. Political parties began campaign preparations.",
+  "label": "politics"
+},
+{
+  "text": "The prime minister met with international leaders to strengthen trade relations. Agreements were signed to promote economic cooperation.",
+  "label": "politics"
+},
+{
+  "text": "The legislative body passed amendments to the labor laws. Worker unions expressed mixed reactions to the decision.",
+  "label": "politics"
+},
+{
+  "text": "The mayor held a press conference about urban development initiatives. City officials outlined infrastructure improvement plans.",
+  "label": "politics"
+},
+{
+  "text": "The judiciary reviewed appeals related to constitutional amendments. Legal experts debated the broader consequences of the ruling.",
+  "label": "politics"
+},
+{
+  "text": "The government introduced a policy aimed at reducing unemployment rates. Economists analyzed the feasibility of the proposal.",
+  "label": "politics"
+},
+{
+  "text": "The foreign minister attended a summit to discuss regional cooperation. Diplomats emphasized peaceful negotiations.",
+  "label": "politics"
+},
+{
+  "text": "The national assembly debated environmental regulations during a lengthy session. Advocacy groups lobbied for stricter measures.",
+  "label": "politics"
+},
+{
+  "text": "The campaign trail intensified as candidates addressed large public gatherings. Polls indicated a closely contested race.",
+  "label": "politics"
+},
+{
+  "text": "The finance minister presented a revised taxation policy. Opposition members questioned the distribution of public funds.",
+  "label": "politics"
+},
+{
+  "text": "The governor proposed new healthcare initiatives to improve accessibility. Legislative approval is required before implementation.",
+  "label": "politics"
+},
+{
+  "text": "The defense committee reviewed military modernization plans. Officials highlighted national security priorities.",
+  "label": "politics"
+},
+{
+  "text": "The parliament convened an emergency session to address rising inflation. Economists testified before the committee.",
+  "label": "politics"
+},
+{
+  "text": "The constitutional court examined a controversial executive order. Public opinion remains divided on the issue.",
+  "label": "politics"
+},
+{
+  "text": "The diplomatic delegation participated in peace negotiations. Observers reported steady progress in discussions.",
+  "label": "politics"
+},
+{
+  "text": "The local council approved zoning reforms after community consultations. Residents voiced concerns during the hearing.",
+  "label": "politics"
+},
+{
+  "text": "The sports minister attended the championship ceremony and praised the team's performance. Government officials announced increased funding for athletic programs.",
+  "label": "sports"
+},
+{
+  "text": "Parliament approved new investments in national football infrastructure. The stadium renovation is expected to boost the league's growth.",
+  "label": "sports"
+},
+{
+  "text": "The president congratulated the Olympic athletes during a public address. He emphasized how sports unite the nation.",
+  "label": "sports"
+},
+{
+  "text": "The mayor launched a city-wide marathon initiative to promote health and fitness. Local government agencies supported the event.",
+  "label": "sports"
+},
+{
+  "text": "Election candidates attended the cricket final to connect with voters. The match attracted significant public attention.",
+  "label": "sports"
+},
+{
+  "text": "The national assembly discussed policies to improve youth participation in basketball leagues. Coaches welcomed the proposed reforms.",
+  "label": "sports"
+},
+{
+  "text": "Government funding helped the hockey federation organize an international tournament. Officials highlighted the economic benefits of hosting the event.",
+  "label": "sports"
+},
+{
+  "text": "The prime minister praised the rugby team's discipline during a televised speech. He called their victory a symbol of national pride.",
+  "label": "sports"
+},
+{
+  "text": "A new public policy aims to expand access to sports facilities in rural areas. The initiative focuses on football and athletics development.",
+  "label": "sports"
+},
+{
+  "text": "Lawmakers attended the tennis championship final as honored guests. The event was described as a boost to regional tourism.",
+  "label": "sports"
+},
+{
+  "text": "The election campaign entered its final stage, with candidates competing aggressively for voter support. Analysts compared the race to a high-stakes championship match.",
+  "label": "politics"
+},
+{
+  "text": "The parliamentary debate turned into a political showdown, described by commentators as a strategic game between rival parties.",
+  "label": "politics"
+},
+{
+  "text": "The budget negotiation became a contest of endurance, with lawmakers battling for economic advantage.",
+  "label": "politics"
+},
+{
+  "text": "The governor described the legislative process as a marathon rather than a sprint, emphasizing patience and persistence.",
+  "label": "politics"
+},
+{
+  "text": "The campaign rally attracted thousands of supporters in what analysts called a decisive round in the political arena.",
+  "label": "politics"
+},
+{
+  "text": "Opposition leaders accused the ruling party of playing political games during policy negotiations.",
+  "label": "politics"
+},
+{
+  "text": "The senate vote was seen as the final match in a long-standing policy dispute between two factions.",
+  "label": "politics"
+},
+{
+  "text": "The constitutional reform debate was compared to a competitive tournament among political ideologies.",
+  "label": "politics"
+},
+{
+  "text": "Diplomatic negotiations were described as a strategic contest requiring teamwork and coordination.",
+  "label": "politics"
+},
+{
+  "text": "The mayoral debate became an intense face-off, with each candidate defending their policy agenda vigorously.",
+  "label": "politics"
+}
+
+
+]
